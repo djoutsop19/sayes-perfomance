@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-card {
+  @apply rounded-lg border border-gray-300;
+}
+
+.ant-input {
+  @apply border-gray-300;
+}
+
+.ant-input:disabled {
+  @apply bg-gray-100 text-gray-500 cursor-not-allowed;
+}
+
+.ant-select-selection {
+  @apply border-gray-300;
+}
+
+.ant-btn-primary {
+  @apply transition-colors duration-200;
+}
