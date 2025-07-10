@@ -1,7 +1,6 @@
 {
   "name": "sayes-perfomance",
   "private": true,
-  "proxy": "demo.deaconsarl.com",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
